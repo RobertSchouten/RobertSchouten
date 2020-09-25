@@ -7,6 +7,8 @@
   Im a passionate developer who has spent the last 3 1/2 years primarily working in the C#, MS SQL asp.net razor workspace in conjunction with Javascript and jQuery building responsive websites with Bootstrap.
   Before that I spent 1 1/2 years working on an ERP/CRM system working in python and javascript learning to understand customer needs.
   
+### short code sample
+ [RobertSchouten/ScreenOrientation](https://github.com/RobertSchouten/ScreenOrientation)
 <!--
 **RobertSchouten/RobertSchouten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
